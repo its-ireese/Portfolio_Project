@@ -1,2 +1,2 @@
 # Portfolio_Project
-IBM Full Stack cert second final assignment 
+This is quick final assignment from the IBM Full Stack cert. 
